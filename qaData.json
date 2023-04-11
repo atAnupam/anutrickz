@@ -1,5 +1,31 @@
 {
-  "What is the capital of France?": "Paris",
-  "What is the largest organ in the human body?": "Skin",
-  "What is the chemical symbol for gold?": "Au"
+
+  "questions": [
+
+    {
+
+      "question": "What is your name?",
+
+      "answer": "My name is Chatbot."
+
+    },
+
+    {
+
+      "question": "What can you do?",
+
+      "answer": "I can assist you with your questions."
+
+    },
+
+    {
+
+      "question": "What is the weather today?",
+
+      "answer": "I'm sorry, I cannot provide weather information at the moment."
+
+    }
+
+  ]
+
 }
