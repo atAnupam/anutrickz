@@ -1,7 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=90&color=2988F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=90&lines=Hello%2C+I+am+a+web+developer;and+web+designer)](https://git.io/typing-svg)
 
 
-## Hello, Im [ANUPAM](https://instagram.com/anutrickz) 
+
+```rb
+Hi my name is ANUPAM
+
+• I am from India
+• I am a programmer, programming is just my hobby
+• I'm currently focusing on Javascript,
+  html & css
+```
+
 [<img src="https://img.shields.io/badge/Website-anutrickz-blue">](https://anutrickz.blogspot.com/)
 [<img src="https://img.shields.io/badge/Email-anutrickz@gmail.com-purple">](mailto:anutrickz@gmail.com)
 <a href="https://www.instagram.com/anutrickz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -13,6 +22,12 @@
 - Kotlin • Django • Jade • Nodejs
 - Laravel • Codeigniter • Vuejs • Express JS
 - PHP • Shell
+
+
+<h2 align="center"><i><small>My Poster 👀</h2>
+<div align="center">
+<img align="center" src="https://cardivo.vercel.app/api?name=Cakra%20YP&description=Hi,%20I%27m%20Anupam%20and%20I%27m%20just%20a%20beginner%20programmer,%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/anutrickz&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@anutrickz&github=anutrickz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://anutrickz.blogspot.com"/>
+</div>
 
 ### Visitor Count
 <a href="https://hataken.eu.org" target="_blank"><img src="https://count.getloli.com/get/@anutrickz?theme=rule34" width="50%" alt="anutrickz Counter" /></a>
