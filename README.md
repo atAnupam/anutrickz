@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Hello%2C+I+am+a+web+developer+and+web+designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=90&color=2988F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=90&lines=Hello%2C+I+am+a+web+developer;and+web+designer)](https://git.io/typing-svg)
 
 
 ## Hello, Im [ANUPAM](https://instagram.com/anutrickz) 
