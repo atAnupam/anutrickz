@@ -26,7 +26,7 @@ Hi my name is ANUPAM
 
 <h2 align="center"><i><small>My Poster 👀</h2>
 <div align="center">
-<img align="center" src="https://cardivo.vercel.app/api?name=ANUTRICKZ&description=Hi,%20I%27m%20Anupam%20and%20I%27m%20just%20a%20beginner%20programmer,%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/anutrickz&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@anutrickz&github=anutrickz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://anutrickz.blogspot.com"/>
+<img align="center" src="https://cardivo.vercel.app/api?name=ANUTRICKZ&description=Hi,%20I%27m%20Anupam%20and%20I%27m%20a%20a%20web%20%20designer%20%20and%20developer,%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/anutrickz&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@anutrickz&github=anutrickz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://anutrickz.blogspot.com"/>
 </div>
 
 ### Visitor Count
