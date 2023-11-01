@@ -17,11 +17,6 @@ Hi my name is ANUPAM
 
 [![GitHub anutrickz](https://img.shields.io/github/followers/anutrickz?label=follow&style=social)](https://github.com/anutrickz)
 
-:page_with_curl: I'm currently learning:
-- Golang • Python • Javascript • Java
-- Kotlin • Django • Jade • Nodejs
-- Laravel • Codeigniter • Vuejs • Express JS
-- PHP • Shell
 
 
 <h2 align="center"><i><small>My Poster 👀</h2>
