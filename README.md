@@ -15,7 +15,7 @@
 - PHP • Shell
 
 ### Visitor Count
-<a href="https://hataken.eu.org" target="_blank"><img src="https://count.getloli.com/get/@Hataken999?theme=rule34" width="50%" alt="Hataken Moe Counter" /></a>
+<a href="https://hataken.eu.org" target="_blank"><img src="https://count.getloli.com/get/@anutrickz?theme=rule34" width="50%" alt="anutrickz Counter" /></a>
 
 ##
    <p align="center">
