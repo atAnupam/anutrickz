@@ -1,8 +1,5 @@
-<h1 align="center">
- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello, i'am+a+web developer and web designer"/>
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I+am+a+web+developer+and+web+designer)](https://git.io/typing-svg)
+
 
 ## Hello, Im [ANUPAM](https://instagram.com/anutrickz) 
 [<img src="https://img.shields.io/badge/Website-anutrickz-blue">](https://anutrickz.blogspot.com/)
