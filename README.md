@@ -5,12 +5,11 @@
 </h1>
 
 ## Hello, Im [ANUPAM](https://instagram.com/anutrickz) 
-:sunglasses:
 [<img src="https://img.shields.io/badge/Website-anutrickz-blue">](https://anutrickz.blogspot.com/)
 [<img src="https://img.shields.io/badge/Email-anutrickz@gmail.com-purple">](mailto:anutrickz@gmail.com)
 <a href="https://www.instagram.com/anutrickz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-[![GitHub amiruldev20](https://img.shields.io/github/followers/anutrickz?label=follow&style=social)](https://github.com/anutrickz)
+[![GitHub anutrickz](https://img.shields.io/github/followers/anutrickz?label=follow&style=social)](https://github.com/anutrickz)
 
 :page_with_curl: I'm currently learning:
 - Golang • Python • Javascript • Java
