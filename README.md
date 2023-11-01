@@ -19,6 +19,7 @@ Hi my name is ANUPAM
 [<img src="https://img.shields.io/badge/Website-anutrickz-blue">](https://anutrickz.blogspot.com/)
 [<img src="https://img.shields.io/badge/Email-anutrickz@gmail.com-purple">](mailto:anutrickz@gmail.com)
 <a href="https://www.instagram.com/anutrickz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://youtube.com/anutrickz" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="youtube"></a>
 
 [![GitHub anutrickz](https://img.shields.io/github/followers/anutrickz?label=follow&style=social)](https://github.com/anutrickz)
 
